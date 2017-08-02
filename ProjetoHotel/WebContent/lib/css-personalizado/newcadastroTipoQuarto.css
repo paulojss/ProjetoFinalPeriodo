@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+
+.row {
+	margin-top: 62px;
+}
+
+.page-header {
+	margin: 72px 0 20px;
+}
+
+#element {
+	margin-top: 139px;
+}
+
+#loc {
+	margin-top: 148px;
+	margin-left: 355px;
+}
+div#form-hotel{	
+	width: 1000px;
+	background-color: #dddddd;
+	margin: 100px auto 0px auto;/*margem ixterna do formulario*/
+	box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+	padding: 10px;/*margem interna*/
+}
+section#cont-sessao{
+    display: block;
+    width: auto;
+    padding: 10px;
+}
